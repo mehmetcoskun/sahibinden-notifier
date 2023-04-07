@@ -1,4 +1,3 @@
-
 ## Bilgisayarınızda Çalıştırın
 
 Projeyi klonlayın
@@ -13,14 +12,12 @@ Proje dizinine gidin
   cd my-project
 ```
 
-Gerekli paketleri yükleyin
+Projeyi çalıştırmak için aşağıdaki komutu çalıştırın
 
 ```bash
   make up
 ```
 
-
-  
 ## Ortam Değişkenleri
 
 Bu projeyi çalıştırmak için aşağıdaki ortam değişkenlerini .env dosyanıza eklemeniz gerekecek
@@ -35,7 +32,6 @@ Bu projeyi çalıştırmak için aşağıdaki ortam değişkenlerini .env dosyan
 
 `DISCORD_CHANNEL_ID`
 
-  
 ## Ekran Görüntüleri
 
 ![Uygulama Ekran Görüntüsü](screenshot.png)
